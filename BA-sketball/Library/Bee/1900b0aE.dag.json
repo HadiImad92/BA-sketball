@@ -19276,9 +19276,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1444572,
       "PayloadLength": 51,
       "PayloadDebugContentSnippet": "C:\\Users\\ron_3\\source\\repos\\BA",
+=======
+      "PayloadOffset": 1444518,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\Hadi\\source\\repos\\BA-",
+>>>>>>> a21f78653a94d857a19460aa91936d71a775926a
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -19289,7 +19295,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp",
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1444709,
+=======
+      "PayloadOffset": 1444654,
+>>>>>>> a21f78653a94d857a19460aa91936d71a775926a
       "PayloadLength": 32424,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -19302,7 +19312,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1477220,
+=======
+      "PayloadOffset": 1477165,
+>>>>>>> a21f78653a94d857a19460aa91936d71a775926a
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -19785,7 +19799,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1477316,
+=======
+      "PayloadOffset": 1477261,
+>>>>>>> a21f78653a94d857a19460aa91936d71a775926a
       "PayloadLength": 9366,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -20869,7 +20887,11 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
+<<<<<<< HEAD
       "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.46f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.46f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Users\\ron_3\\source\\repos\\BA-sketball\\BA-sketball\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Users\\ron_3\\source\\repos\\BA-sketball\\BA-sketball\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Users\\ron_3\\source\\repos\\BA-sketball\\BA-sketball\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Users\\ron_3\\source\\repos\\BA-sketball\\BA-sketball\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Users\\ron_3\\source\\repos\\BA-sketball\\BA-sketball\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Users\\ron_3\\source\\repos\\BA-sketball\\BA-sketball\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Users\\ron_3\\source\\repos\\BA-sketball\\BA-sketball\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Users\\ron_3\\source\\repos\\BA-sketball\\BA-sketball\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Users\\ron_3\\source\\repos\\BA-sketball\\BA-sketball\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Users\\ron_3\\source\\repos\\BA-sketball\\BA-sketball\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Users\\ron_3\\source\\repos\\BA-sketball\\BA-sketball\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Users\\ron_3\\source\\repos\\BA-sketball\\BA-sketball\\Library\\ScriptAssemblies\" -s=\"C:\\Users\\ron_3\\source\\repos\\BA-sketball\\BA-sketball\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"C:\\Users\\ron_3\\source\\repos\\BA-sketball\\BA-sketball\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\" -s=\"C:\\Users\\ron_3\\source\\repos\\BA-sketball\\BA-sketball\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+=======
+      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.46f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.46f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Users\\Hadi\\source\\repos\\BA-sketball\\BA-sketball\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Users\\Hadi\\source\\repos\\BA-sketball\\BA-sketball\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Users\\Hadi\\source\\repos\\BA-sketball\\BA-sketball\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Users\\Hadi\\source\\repos\\BA-sketball\\BA-sketball\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Users\\Hadi\\source\\repos\\BA-sketball\\BA-sketball\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Users\\Hadi\\source\\repos\\BA-sketball\\BA-sketball\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Users\\Hadi\\source\\repos\\BA-sketball\\BA-sketball\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Users\\Hadi\\source\\repos\\BA-sketball\\BA-sketball\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Users\\Hadi\\source\\repos\\BA-sketball\\BA-sketball\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Users\\Hadi\\source\\repos\\BA-sketball\\BA-sketball\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Users\\Hadi\\source\\repos\\BA-sketball\\BA-sketball\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Users\\Hadi\\source\\repos\\BA-sketball\\BA-sketball\\Library\\ScriptAssemblies\" -s=\"C:\\Users\\Hadi\\source\\repos\\BA-sketball\\BA-sketball\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"C:\\Users\\Hadi\\source\\repos\\BA-sketball\\BA-sketball\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\" -s=\"C:\\Users\\Hadi\\source\\repos\\BA-sketball\\BA-sketball\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+>>>>>>> a21f78653a94d857a19460aa91936d71a775926a
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/2022.3.46f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity/Hub/Editor/2022.3.46f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
